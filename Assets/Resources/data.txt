@@ -1,0 +1,2 @@
+color:FF0000, points:20 //red demo level
+color:0000FF, points:15 //blue demo level
